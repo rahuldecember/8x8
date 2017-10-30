@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="8169" started-at="2017-10-10T16:01:52Z" finished-at="2017-10-10T16:02:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8169" started-at="2017-10-10T16:01:52Z" finished-at="2017-10-10T16:02:00Z">
+      <class name="com.mytest.Testgooglekeep.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.mytest.Testgooglekeep.NewTest@668bc3d5]" name="beforeTest" is-config="true" duration-ms="3721" started-at="2017-10-10T17:01:52Z" finished-at="2017-10-10T17:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:com.mytest.Testgooglekeep.NewTest@668bc3d5]" name="testEasy" duration-ms="4175" started-at="2017-10-10T17:01:55Z" finished-at="2017-10-10T17:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.mytest.Testgooglekeep.NewTest@668bc3d5]" name="afterTest" is-config="true" duration-ms="260" started-at="2017-10-10T17:02:00Z" finished-at="2017-10-10T17:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.mytest.Testgooglekeep.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

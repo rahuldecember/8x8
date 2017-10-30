@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.test.amazon.NewTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.test.amazon.NewTest">
+        <methods>
+          <include name="testCreateNote"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.test.amazon.NewTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.test.amazon.NewTest] -->
